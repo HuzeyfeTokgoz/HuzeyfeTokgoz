@@ -68,15 +68,6 @@ At 42, I'm building strong low-level foundations in C, and I'm especially intere
   <img src="https://streak-stats.demolab.com?user=HuzeyfeTokgoz&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuzeyfeTokgoz/HuzeyfeTokgoz/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/HuzeyfeTokgoz/HuzeyfeTokgoz/output/github-snake.svg" />
-  </picture>
-</p>
-
 ## 🤝 Connect
 
 <p align="center">
